@@ -19,9 +19,9 @@ export default function Home() {
       <SideBar />
       <Container>
         <ContainerCard>
-          <Card total={'R$ 5.000,00'} />
-          <Card total={'R$ 15.000,00'} />
-          <Card total={'R$ 20.000,00'} />
+          <Card total={'Info'} />
+          <Card total={'Info'} />
+          <Card total={'Info'} />
         </ContainerCard>
         <div style={{ marginLeft: '30rem' }}>
           <ChartComponent />
