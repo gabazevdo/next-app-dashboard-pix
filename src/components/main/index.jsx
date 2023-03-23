@@ -4,7 +4,7 @@ import Chart from '../chart/Chart'
 
 export default function Main() {
   const [data, setData] = useState([])
-  const [start, setStart] = useState('2023-03-09T05:00:00.000')
+  const [start, setStart] = useState('2023-03-13T05:00:00.000')
   const [end, setEnd] = useState('2023-03-13T06:00:00.000')
   const [time, setTime] = useState()
 
